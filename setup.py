@@ -15,6 +15,5 @@ setup(
     install_requires=['numpy', 'pillow', 'scipy', 'sklearn', 'regex', 'emoji', 'seaborn',
                      'datetime', 'pandas', 'operator', 'requests',
                       'wordcloud', 'palettable'],
-    version='0.1',
     license='MIT',
 )
